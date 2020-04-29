@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Kanit Light'), local('Kanit-Light'), url('./Kanit-300-1.woff') format('woff');
+}
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Kanit Black'), local('Kanit-Black'), url('./Kanit-900-2.woff') format('woff');
+}
