@@ -1,4 +1,4 @@
-# TailwindCSS + ParcelJS + TypeScript boilerplate
+# TailwindCSS + PostCSS + BrowserSync boilerplate
 
 ```
 npm run dev
