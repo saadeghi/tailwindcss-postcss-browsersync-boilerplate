@@ -1,4 +1,10 @@
 module.exports = {
+  purge: {
+    mode: 'all',
+    content: [
+      './*.html',
+    ],
+  },
   theme: {
     fontFamily: {
       sans: ['Kanit', 'sans-serif'],
