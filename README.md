@@ -1,7 +1,7 @@
-# TailwindCSS + PostCSS + BrowserSync boilerplate
+# Tailwind CSS + PostCSS + BrowserSync boilerplate
 
 ## 💡 Features
-- TailwindCSS, AutoPrefixer, PurgeCSS and CSSnano configed in PostCSS
+- Tailwind CSS, AutoPrefixer, PurgeCSS and CSSnano configed in PostCSS
 - [Optional] automatically download google fonts using get-google-fonts
   
 ## 🏄‍♀️ How to use
